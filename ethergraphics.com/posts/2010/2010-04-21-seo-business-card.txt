@@ -1,0 +1,7 @@
+---
+title: SEO Business Card
+tags: [ideas, design]
+---
+If I were in SEO this is what my business card would look like:
+
+![seo business card](/assets/images/blog/2010/seo_card.png)

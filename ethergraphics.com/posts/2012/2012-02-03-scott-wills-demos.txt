@@ -1,0 +1,14 @@
+---
+title: Scott Wills Demos
+tags: [details]
+---
+
+I'm a huge fan of [Scott Wills](http://animationbgs.blogspot.com/). Here he shares some of the techniques he used while doing background work for Samuri Jack.
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/VVuNZiYSqrA" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/0JeE5M2Mn38" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/o-eS_xZbgtc" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/so3NaoOGrV8" frameborder="0" allowfullscreen></iframe>

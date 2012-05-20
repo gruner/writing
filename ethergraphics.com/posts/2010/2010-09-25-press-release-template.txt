@@ -1,0 +1,17 @@
+---
+title: Corporate Press Release Template
+tags: [musings]
+---
+## [date] - [location] - For Immediate Release
+
+[company name] is pleased to announce [cool new product / partnership]
+
+"We're very excited," said [highly paid executive].
+
+## About [company name]
+
+[company name] has been the leader in [industry] since [founding date]. [Company name] continues to strive for excellence in the future.
+
+## About Forward Looking Statements
+
+[company name] can't actually predict the future. Buyer beware.

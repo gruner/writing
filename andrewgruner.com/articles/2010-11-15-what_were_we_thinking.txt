@@ -1,0 +1,6 @@
+---
+title: What Were We Thinking?!
+extension: php
+includes: [2010/what_were_we_thinking/random_item.php]
+headline: <a href="what_were_we_thinking">Remember <?php echo get_item() ?>? What were we thinking?!</a>
+---

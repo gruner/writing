@@ -1,0 +1,7 @@
+---
+title: Well Rounded
+tags: [design]
+---
+When nesting a box with rounded corners inside another box with rounded corners, the corners of the inner box need to have a smaller curve radius, otherwise its corners will appear to bulge. This is especially noticeable on iPhone icons that have an inner border.
+
+![rounded corner graphics](/assets/images/blog/2010/well_rounded.png)

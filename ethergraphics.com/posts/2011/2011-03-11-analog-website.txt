@@ -1,0 +1,7 @@
+---
+title: 'Idea: Analog Website'
+tags: [art, ideas]
+---
+Idea for an art installation: an analog website. It would consist of a large wall covered with literal pages written/typed on uniform pieces of paper and hung in a grid. Some kind of camera or webcam on a track or a pulley system would move back and forth over the grid of pages. When a page request comes to the server, it triggers the camera to move to the physical page and give a live rendering of it.
+
+Now for the tricky part: there needs to be a way to display hypertext and the interlinking of pages as physical connections. Maybe threads could string from one word to another page. Then the camera would have to somehow be able to traverse the threads to follow the navigation of the user.

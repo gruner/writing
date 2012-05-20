@@ -1,0 +1,18 @@
+---
+title: The Ugly/Tasty Scale
+tags: [food, animals, charts]
+quip: Tastes like chicken.
+scripts: [g.raphael-min, g.line-min]
+js_mods: [/2008/ugly_tasty_scale/modTastyGraph]
+---
+I'd like to create a scale for rating the taste of different types of meat in comparison to the ugliness of the animal species it's taken from. The premise being that any ugly animal that tastes really good should be significantly recognized because its taste is pulling double-duty -- it has to make up for the animal's ugliness.
+
+There's a certain satisfaction that comes from consuming an ugly creature. For one, there's a lot less guilt in killing and consuming an ugly animal. But more than that, it's the knowledge that extreme ugliness did not deter mankind, the world's greatest predator, from discovering the animal kingdom's tasty secrets.
+
+For instance, the lobster thought it would be safe hiding at the bottom of the ocean with its spiny body plates, beady eyes, and hideous claws, but we weren't fooled. It's the highest rated animal on the ugly/tasty scale followed closely by its crustacean cousins, crab and shrimp.
+
+Most ugly animals don't taste very good. For instance sea urchin -- served as _uni_ in sushi restaurants -- tastes like a musty sweat sock. (It's uncanny.) You'd think that with all its spines it was protecting some delectable morsel. NOT SO. That's why the ugly creatures that _are_ palatable, and even more so, _delicacies_, stand out as precious gems from the rest of their ugly ilk.
+
+If I started with sea animals it's because they dominate the ugly scale in comparison to birds and mammals. As ugly goes, insects and reptiles could be definite contenders, but as I don't have any experience with their tastiness -- and little desire to learn -- they have been excluded from this list, left as an exercise for the reader.
+
+Mammals, by comparison, are much easier on the eyes, and while tasty, rank much lower on the scale. Some mammals are even downright [cute](http://cuteoverload.com), and unless you're a sadist are not as much fun to eat.

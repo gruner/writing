@@ -1,0 +1,43 @@
+---
+title: Minesweeper Legacy
+details: Minesweeper is awesome, it just needs an image update. This was created as a jQuery plugin. I'll post the source on github as soon as I work out a few more bugs.
+quip: Suck it Tron.
+stylesheets:
+  - /2011/minesweeper/minesweeper.css
+
+scripts:
+  - /2011/minesweeper/plugins/jquery.rightClick.js
+  - /2011/minesweeper/plugins/jquery.timer.js
+  - /2011/minesweeper/plugins/jquery.minesweeper.js
+  - plugins.js
+
+js_mods:
+  - /2011/minesweeper/modMinesweeper
+---
+<div id="ms_container"></div>
+<div id="ms_config" class="modal">
+  <form action="#">
+    <div>
+      <p><label for="ms_rows">Rows</label><br>
+      <input type="text" name="ms_rows" id="ms_rows"></p>
+
+      <p><label for="ms_columns">Columns</label><br>
+      <input type="text" name="ms_columns" id="ms_columns"></p>
+
+      <p><label for="ms_mines">Mines</label><br>
+      <input type="text" name="ms_mines" id="ms_mines"></p>
+    </div>
+    <div>
+      <label for="ms_level_select">Level</label><br>
+      <select id="ms_level_select">
+        <option value="easy">Easy</option>
+        <option value="medium">Medium</option>
+        <option value="hard">Hard</option>
+        <option value="custom">Custom</option>
+      </select>
+    </div>
+
+    <button id="ms_btn_cancel">Cancel</button>
+    <button id="ms_btn_start">Start Game</button>
+  </form>
+</div>

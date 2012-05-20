@@ -1,0 +1,16 @@
+---
+title: Shiny Happy People Details
+tags: [details]
+---
+<div class="nivoSlider slideshow" data-slideshow="true">
+    <img src="/assets/images/blog/2012/shiny-happy_1.jpg" width="690" height="425" title="Character and layout sketches." />
+    <img src="/assets/images/blog/2012/shiny-happy_2.jpg" width="690" height="425" title="Sky and buildings done as a wash of blue dulled with burnt sienna. Wall is outlined." />
+    <img src="/assets/images/blog/2012/shiny-happy_3.jpg" width="690" height="425" title="Wall color blocked in - red mixed with burnt sienna." />
+    <img src="/assets/images/blog/2012/shiny-happy_4.jpg" width="690" height="425" title="Bricks defined and weathered. Sidewalk and street colors blocked in. Starting to outline characters." />
+    <img src="/assets/images/blog/2012/shiny-happy_5.jpg" width="690" height="425" title="Moon and stars added. Blocking in characters with tones of grey." />
+    <img src="/assets/images/blog/2012/shiny-happy_6.jpg" width="690" height="425" title="More characters." />
+    <img src="/assets/images/blog/2012/shiny-happy_7.jpg" width="690" height="425" title="Characters mostly blocked in." />
+    <img src="/assets/images/blog/2012/shiny-happy_8.jpg" width="690" height="425" title="Adding refining detail and color accents to charcters." />
+</div>
+
+<p>Here's the <a href="/shiny-happy-people">finished illustration</a>.</p>

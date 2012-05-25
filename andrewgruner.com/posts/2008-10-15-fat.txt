@@ -1,6 +1,6 @@
 ---
 title: Does this make me look fat?
-extension: php
-includes: [2008/fat/random_item.php]
-headline: <a href="fat">Does this <?php echo get_item() ?> make me look fat?</a>
+tags: [health]
+headline: <a href="/fat">Does this {{ item }} make me look fat?</a>
 ---
+<!--placeholder-->

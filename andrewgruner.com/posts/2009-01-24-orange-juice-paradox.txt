@@ -1,21 +1,20 @@
 ---
 title: The Orange Juice Paradox
-categories: [food]
+tags: [food]
 quip: Part of this complete breakfast.
-theme: light
 ---
 Why is orange juice traditionally served at breakfast?
 
-Of the three typical meals served in a day, breakfast food has the most sugar. Anyone who takes time to sit down and have *a good breakfast&trade;* will usually have at least one of the following: toast, pancakes, waffles, pastries, or cereal. Alongside each of these breakfast foods is an alarming assortment of syrups, jams, jellies, honeys, and preserves -- all ready for slathering. If that weren't enough there's also a bowl of pure sugar, and it's acceptable to just dump spoonfuls of it on your food.
+Of the three typical meals served in a day, breakfast food has the most sugar. Anyone who takes time to sit down and have *a good breakfast&trade;* will usually have at least one of the following: toast, pancakes, waffles, pastries, or cereal. Alongside each of these breakfast foods is an alarming assortment of syrups, jams, jellies, honeys, and preserves – all ready for slathering. If that weren't enough there's also a bowl of pure sugar, and it's acceptable to just dump spoonfuls of it on your food.
 
 Orange juice is also very sweet and full of sugar. However, when consumed after having eaten one of these other sweet foods, orange juice tastes horribly bitter and sour. This raises the great *orange juice paradox*:
 
-> Orange juice is ruined by the<br/>
+> Orange juice is ruined by the  
 > foods it is traditionally served with.
 
 Orange juice is much too good to be served with so many kinds of food that have the potential to ruin its flavor. I propose that we collectively remedy this egregious error by not serving orange juice at breakfast. At the very least, please use discretion to determine if the meal is appropriate (as far as sugar content) for serving orange juice. It should become a *faux pa* to serve it with other sweets.
 
-Orange juice is much better suited to be served with salty or spicy meals<sup id='fnr1-2009-01-24'><a href="#fn1-2009-01-24">1</a></sup> where both flavors enhance each other and create a more favorable dining experience. Otherwise our taste buds are stuck with the inevitable sourness of failure if we insist on continually serving it at breakfast.
+Orange juice is much better suited for serving with salty or spicy meals<sup id='fnr1-2009-01-24'><a href="#fn1-2009-01-24">1</a></sup> where both flavors enhance each other and create a more favorable dining experience. Otherwise our taste buds are stuck with the inevitable sourness of failure if we insist on continually serving it at breakfast.
 
 <div class="footnotes">
 <hr />

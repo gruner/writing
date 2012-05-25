@@ -1,8 +1,7 @@
 ---
 title: Smoke Break
-tags: [Life, Musings]
+tags: [life, health]
 img_caption: Smoking smokes you!
-theme: light
 quip: Smoking smokes you.
 ---
 I spend altogether _way_ too much time in front of the computer. In fact, I've considered taking up smoking as a way of getting myself up and away from the desk at regular intervals.

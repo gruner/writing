@@ -1,5 +1,6 @@
 ---
 title: Minesweeper Legacy
+tags: [games]
 details: Minesweeper is awesome, it just needs an image update. This was created as a jQuery plugin. I'll post the source on github as soon as I work out a few more bugs.
 quip: Suck it Tron.
 stylesheets:

@@ -2,7 +2,7 @@
 title: Out of Place
 tags: [history, apple]
 img_caption: Abraham Lincon's iPod
-details: 'Published: 6-17-06<br>Headline font: Gable Antique Condensed SG'
+details: 'Headline font: Gable Antique Condensed SG'
 quip: Marry Todd preferred the Zune.
 ---
 **Can you spot the glaring historical inaccuracy in this photo?**

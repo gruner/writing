@@ -1,6 +1,6 @@
 ---
 title: Hand Clapping
-tags: [Culture, Musings]
+tags: [culture]
 quip: Clap on, clap off.
 details: 'Headline font: Zebrawood'
 ---

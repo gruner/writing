@@ -1,7 +1,6 @@
 ---
 title: Why The Long Face, Senseo?
 tags: [design]
-layout: 2_column
 img_caption: I feel bad about myself
 quip: Depressed to the last drop.
 ---

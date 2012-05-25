@@ -1,10 +1,10 @@
 ---
 title: Original Context
-categories: [Musings]
+tags: [quotes]
 img_caption: Be sure to check for Greeks hiding inside
 quip: Taste the rainbow.
 ---
-We all know the danger of taking someone's words out of context. It's too easy for meaning to be lost when all we have is a snippet of the person's words. As an example, here are several famous sayings as they were originally presented. The astute reader will notice how the phrases have been changed or abbreviated and that what we've retained of them is in some cases very different from their original meaning.
+We all know the danger of taking someone's words out of context. It's too easy to lose their meaning when we only have a snippet of the person's words. As an example, here are several famous sayings as they were originally presented. The astute reader will notice how the phrases have been changed or abbreviated and that what we've retained is in some cases very different from their original meaning.
 
 > Keep your friends close and your enemies closer. In fact, give your enemies some Skittles and maybe they won't think you're such a jerk.
 
@@ -14,11 +14,11 @@ We all know the danger of taking someone's words out of context. It's too easy f
 
 > Beware of Greeks bearing gifts because they're infamous for re-gifting. Also, they'll sneak into your city at night and stab you in your sleep.
 
-> A watched pot never boils -- especially if you've forgotten to turn the stove on. Or maybe you turned on the wrong burner. Did you think of that?
+> A watched pot never boils – especially if you've forgotten to turn the stove on. Or maybe you turned on the wrong burner. Did you think of that?
 
 > A stitch in time saves nine long hours of re-stitching.
 
-> Don't count your chickens before they've hatched -- some eggs will have *two* chickens inside and you'll have to find names for them as well.
+> Don't count your chickens before they've hatched – some eggs will have *two* chickens inside and you'll have to find names for them as well.
 
 > A penny saved is a penny earned. Just be sure your bank accepts single penny deposits and withdrawals.
 

@@ -1,6 +1,6 @@
 ---
 title: High Finance
-categories: [Musings]
+tags: [musings]
 ---
 I'm fascinated with the concept of bartering. It would be cool if I could use my skills in direct trade to the things I need from other people. I think that with only slight changes to what we've grown accustomed to that bartering could make a comeback.
 

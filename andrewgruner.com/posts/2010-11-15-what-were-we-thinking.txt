@@ -1,7 +1,6 @@
 ---
 title: What Were We Thinking?!
 tags: [culture]
-includes: [2010/what_were_we_thinking/random_item.php]
-headline: <a href="/what-were-we-thinking">Remember {{ item }}? What were we thinking?!</a>
+headline: Remember %s? What were we thinking?!
 ---
 <!--placeholder-->

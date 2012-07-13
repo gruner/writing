@@ -1,6 +1,6 @@
 ---
 title: Thoughts on Candy
-categories: [Musings]
+tags: [musings]
 ---
 Where do artificial fruit flavors come from? How did they become standardized? Artificial cherry tastes nothing like cherries yet this flavor has been accepted across many forms, be it candy, gum, juice, popsicles, or jello. The same with strawberry, grape, orange, and many others.
 

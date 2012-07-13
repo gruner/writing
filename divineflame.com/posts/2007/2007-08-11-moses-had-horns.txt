@@ -1,13 +1,11 @@
 ---
 title: Moses Had Horns?
-categories: [Design, Faith]
+tags: [Design, Faith]
 img_caption: Horny Moses
 ---
 It's true. Moses used to have horns. Sort of.
 
 In the early 5th Century, when Jerome translated the Latin Vulgate, he misinterpreted the story of Moses' encounters with God at Mt. Sinai. 
-
-<!--more-->
 
 Exodus 34:29-35 describes Moses as having a supernatural radiance to his face after each encounter with God. The effect was so striking that it frightened the Israelites and he donned a veil to hide his face from them.<sup id='fnr1-2007-08-11'><a href="#fn1-2007-08-11">1</a></sup>
 

@@ -1,10 +1,8 @@
 ---
 title: Free Books
-categories: [Life]
+tags: [Life]
 ---
 Anyone not as fortunate as I am to [own Seattle's largest book collection](/2006/12/my-books) may want to check out these resources for free books.
-
-<!--more-->
 
 ### [Project Gutenberg](http://www.gutenburg.org)
 

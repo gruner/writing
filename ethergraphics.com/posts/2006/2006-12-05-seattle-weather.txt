@@ -1,11 +1,9 @@
 ---
 title: Seattle "Weather"
-categories: [Life, Musings]
+tags: [musings]
 img_caption: Seattle's usual winter weather as shown on November 8, 2006
 ---
 Last week we had our annual snow panic, wherein Seattle and surrounding areas completely shut down for two days because of a light dusting of snow. This might be the only place in the country where they announce school closures the night before any snow has even fallen. Despite this annual frenzy, the city has virtually no infrastructure in place to handle a modest size patch of snow.
-
-<!--more-->
 
 Having grown up in Colorado this seems like laughable nonsense. The first "snow day" I experienced here, I got up, scraped the snow off the car, and drove into work as normal. On my drive in I passed several abandoned cars along the roadside, whose passengers had either pulled over and fled in sheer terror, or had gotten stuck after veering off of the road. One SUV was actually balancing precipitously on top of the guard rail. When I got to work hardly anyone else showed up that day. All this because of a few inches of snow, most of which melted off by noon.
 

@@ -1,7 +1,7 @@
---- 
+---
 title: Childhood Misunderstandings
-categories: [Faith, Life]
-img_caption: 
+tags: [Faith, Life]
+img_caption: Precious Moments
 ---
 When I was little, before I could read, I thought that the line in the Lord's Prayer "And lead us not into temptation" was actually "And lead _a snot_ into temptation". By my child logic it stood to reason that because snot is usually undesirable we were asking God to bring a spirit of snottiness unto whatever would try and lead us astray.
 

@@ -1,6 +1,6 @@
 ---
 title: Does this make me look fat?
 tags: [health]
-headline: <a href="/fat">Does this {{ item }} make me look fat?</a>
+headline: Does this %s make me look fat?
 ---
 <!--placeholder-->

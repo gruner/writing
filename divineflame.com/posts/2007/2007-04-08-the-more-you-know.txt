@@ -1,6 +1,6 @@
 ---
 title: The More You Know
-categories: [Faith]
+tags: [Faith]
 ---
 The season of Lent is full of many special days, each with their own designated title, beginning with Ash Wednesday. Holy Week itself is ushered in with Palm Sunday. Then there's Maundy Thursday, Good Friday, and finally Easter Sunday.
 

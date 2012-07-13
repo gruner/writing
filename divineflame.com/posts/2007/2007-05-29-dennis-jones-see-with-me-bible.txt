@@ -1,10 +1,9 @@
 ---
 title: Dennis Jones' See With Me Bible
-categories: [Design, Faith, Life]
+tags: [Design, Faith, Life]
+img_caption: See With Me Bible
 ---
 Last month on Easter Sunday we were the sponsors at the baptism of our friends' baby boy, Jacob. As a gift Jennifer picked up a children's picture Bible called the _See With Me Bible_, illustrated by [Dennis Jones](http://www.dj-art.com). I was blown away by the quality of his work.
-
-<!--more-->
 
 Jones' style is lush, whimsical, and filled with humor. The Bible stories are told solely through the illustrations with no accompanying text except for a short one-sentence message at the end of each story.
 

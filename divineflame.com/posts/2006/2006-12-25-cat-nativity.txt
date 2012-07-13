@@ -1,6 +1,6 @@
 ---
 title: Cat Nativity?
-categories: [Culture, Musings]
+tags: [Culture]
 img_caption: Happy Birthday Jesus Kitty
 ---
 We got a Christmas gift catalog in the mail filled with 

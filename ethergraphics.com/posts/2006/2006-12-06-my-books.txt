@@ -1,6 +1,6 @@
 ---
 title: My Books
-tags: [Musings]
+tags: [musings]
 img_caption: Just a sample of the many books I own.
 ---
 I own the largest collection of books in the region. It's so big that I have to keep the books stored in separate warehouses. Whenever I need one of them I go to the nearest storage facility and look up the book's location in a large computer database.

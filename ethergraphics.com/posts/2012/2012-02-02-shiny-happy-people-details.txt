@@ -1,6 +1,6 @@
 ---
 title: Shiny Happy People Details
-tags: [Details]
+tags: [details]
 slideshow: shiny-happy
 ---
 Here's the [finished illustration](/shiny-happy-people)

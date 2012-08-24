@@ -1,13 +1,13 @@
 ---
 title: What's with all the Robots?
-tags: [Meta, Robots, Art]
+tags: [meta, robots, art]
 ---
 A while back I had the idea of trying to program a faux Facebook game about a robot on a journey. The "game" would do nothing except send random status messages to the user's timeline about what their robot character was doing like, "Andrew's robot completed the Sar Chasm mission" or, "Andrew's robot solved the mystery of the abandoned Moon Mine". A player would do nothing except sign up and their robot would be off on its mystical journey, sending you dispatches along the way. Your robot would complete missions, earn badges and mayorships, and other goodness. I thought it would be fun to create, in addition to poking fun at pointless Facebook games. (Fortunately [Cow Clicker](http://en.wikipedia.org/wiki/Cow_Clicker) did a much better job at this kind of satire.)
 
 I started thinking about what kind of website I would design for the game sign-up and figured it would feature large rotating illustrations of robots in different environments. After a few doodles I decided to see what it would be like to actually paint one rather than doing it in Illustrator or Photoshop. I was fairly pleased with how it turned out and it was really fun. I decided that doing similar works would be a bit more worthwhile than spending time developing a fake game.
 
-In the process I began exploring the idea of creating characters and an environment that suggests a larger narrative, making images that look like they belong in a storybook. Or creating a scene that makes you wonder what's going on here in a way that's not just surrealist juxtapositions.
+In the process I began exploring the idea of creating characters and an environment that suggests a larger narrative, making images that look like they belong in a storybook. Or creating a scene that makes you wonder "what's going on here" in a way that's not just surrealist juxtapositions.
 
-It's also an artistic principle that any image with another person in it is instantly more engaging than one without. And robots, being simple geometric forms, are much easier to draw than people, but you get some of the same instant engagement & empathy for free, especially by showing them doing human activities.
+It's also an artistic principle that any kind of image with another person in it is instantly more engaging than one without. And robots, being simple geometric forms, are much easier to draw than people, but you get some of the same instant engagement & empathy for free, especially by showing them doing human activities.
 
 Just beware of the [uncanny valley](http://en.wikipedia.org/wiki/Uncanny_valley).

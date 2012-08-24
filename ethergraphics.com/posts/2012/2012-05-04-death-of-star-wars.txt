@@ -1,6 +1,6 @@
 ---
 title: The Death of Star Wars
-tags: [star-wars]
+tags: [star wars]
 ---
 ## A Long Time Ago…
 

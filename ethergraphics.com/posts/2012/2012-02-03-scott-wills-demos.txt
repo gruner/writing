@@ -1,6 +1,6 @@
 ---
 title: Scott Wills Demos
-tags: [Details]
+tags: [technique]
 ---
 
 I'm a huge fan of [Scott Wills](http://animationbgs.blogspot.com/). Here he shares some of the techniques he used while doing background work for Samuri Jack.
